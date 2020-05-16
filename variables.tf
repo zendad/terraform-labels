@@ -44,7 +44,7 @@ variable "createdby" {
 
 variable "managedby" {
   type        = string
-  default     = "anmol@clouddrove.com"
+  default     = "Dereck Zenda"
   description = "ManagedBy, eg 'CloudDrove' or 'AnmolNagpal'."
 }
 
